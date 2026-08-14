@@ -43,5 +43,5 @@
 - Extra-terrestrial exploration (rovers, etc)
 
 ## References
-- https://github.com/guoweiyu/NeuroVLA
-- https://doi.org/10.1109/IROS.2018.8593885
+- [NeuroVLA (Alpha Brain)](https://github.com/guoweiyu/NeuroVLA)
+- [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://doi.org/10.1109/IROS.2018.8593885)

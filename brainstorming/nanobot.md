@@ -22,6 +22,6 @@
 - Stealth is necessary to avoid immune-system reactions, protein deposition, calcification of the metal delivery agent.
 
 ## References
-- https://doi.org/10.3390/mi10080504
-- https://doi.org/10.1002/adma.202511870
-- https://doi.org/10.1021/acsnano.5c03911
+- [A Contactless and Biocompatible Approach for 3D Active Microrobotic Targeted Drug Delivery](https://doi.org/10.3390/mi10080504)
+- [Optoacoustic-Guided Magnetic Microrobot Platform for Precision Drug Delivery](https://doi.org/10.1002/adma.202511870)
+- [Technology Roadmap of Micro/Nanorobots](https://doi.org/10.1021/acsnano.5c03911)

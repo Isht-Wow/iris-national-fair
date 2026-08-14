@@ -11,4 +11,4 @@
 - Different coiling of same wire in different regions maybe produce unique behaviour of contractions in various parts of robot.
 
 ## References
-- https://doi.org/10.1002/aisy.70461
+- [Small-Scale Magnetic Peristaltic Soft Robot With Mobility and Transport Capabilities](https://doi.org/10.1002/aisy.70461)
