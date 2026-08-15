@@ -11,6 +11,7 @@
 
 ## Principles
 - The catheter does chemical analysis of urine, while the microbots analyse the physical properties (temperature, pressure) and certain localised metabolites in the bladder.
+- The microbots can find pH of mucosal linings, biofilms (to detect CAUTI earlier), tissue oxygenation, bladder wall pressure.
 
 ## References
 - [Continuous spectroscopic monitoring of urinary catheter output: advancements and clinical implications](https://doi.org/10.1038/s41598-025-92802-2)
