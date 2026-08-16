@@ -6,8 +6,8 @@
 > (3) From the A are deduced, by a logical path, particular assertions S that can claim to be exact.
 > (4) The S are brought into relation with the E (testing by experience). This procedure belongs also to the extra-logical (intuitive) sphere, because the connection s between the concepts appearing in S and the immediate experiences E are not of a logical nature. But this relationship between the S and the E is (pragmatically) much less uncertain than the relation of the A to the E. (Example: the concept 'dog' and the corresponding direct experiences.) If such a correspondence could not be achieved with great certainty (even though it is not logically 'grasped' a bit better), the logical machinery is not logically would be of no value at all for the "comprehension of reality' (for example, theology).
 > The quintessence is the always problematical connection between the world of ideas and that which can be experienced (direct sense-experiences).
-
 <p style="text-align: right;"><strong>~ Albert Einstein</strong></p>
+
 - This is the major reason why AGI is not possible. It doesn't know the axioms as it has no sensory feedback. But even if there is feedback, the cognition of AI Systems doesn't allow it.
 
 ## The Problems with Current AI
