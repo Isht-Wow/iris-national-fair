@@ -30,6 +30,7 @@ The quintessence is the always problematical connection between the world of ide
 - How can the system retain memories and assign them priority without discrete input at start of training?
 - How can separate experiences be connected by an AI to come on an conclusion? Logic needs premises, and AI needs to collect appropriate premises.
 - How can it make genuine causal conclusion and not just adapt correlatons?
+- How does AI make distinctions and classifications without any external feedback?
 
 ## Why is this important?
 - This could be the stepping stone of AGI (Artificial General Intelligence).
